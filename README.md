@@ -1,0 +1,1 @@
+Two stock curve together.
